@@ -1,0 +1,26 @@
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#grid{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    box-sizing: border-box;
+    padding:100px 50px ;
+    max-width: 1000px;
+    background-color: pink;
+}
+
+img{
+    width: 150px;
+}
+h3{
+    box-sizing: border-box;
+    display: flex;
+    padding: 50px;
+    max-width: 1000px;
+    background-color: chocolate;
+    color: white;
+}
